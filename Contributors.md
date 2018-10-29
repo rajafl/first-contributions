@@ -6574,6 +6574,7 @@ Rohan Das
 - [Zadjad R.](https://github.com/zjk758)
 - [Charles Oma](https://github.com/charlesoma)
 - [MaliciousWyvern (Ryan Armstrong)](https://github.com/MaliciousWyvern)
+- [Raja](https://github.com/rajafl)
 - [Jorge Rodriguez](https://github.com/jorgeivvn)
 - [Tuguldur Bayarnyam](https://github.com/tuguscript)
 - [discimus-scientia](https://github.com/discimus-scientia)
